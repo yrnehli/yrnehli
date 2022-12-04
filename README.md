@@ -8,7 +8,7 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=henryli17&layout=compact&exclude_repo=repo,henryli17.github.io&langs_count=6&hide=css,makefile,applescript,shell,hack,dockerfile&theme=midnight-purple">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=henryli17&layout=compact&exclude_repo=repo,henryli17.github.io&langs_count=6&hide=css,makefile,applescript,shell,hack,dockerfile&theme=graywhite">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=henryli17&theme=midnight-purple&layout=compact&exclude_repo=repo,henryli17.github.io&langs_count=6&hide=css,makefile,applescript,shell,hack,dockerfile">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=henryli17&theme=graywhite&layout=compact&exclude_repo=repo,henryli17.github.io&langs_count=6&hide=css,makefile,applescript,shell,hack,dockerfile">
   <img alt="Languages">
 </picture>
