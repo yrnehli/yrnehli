@@ -14,7 +14,7 @@ I am a full-stack software engineer based in the UK. I love exploring tooling an
 - **Next.js** - A full stack framework for React to build server-side rendered websites.
 - **Prisma** - An ORM that provides a simple, type safe API to query databases.
 
-### Languages
+### 🌍 Languages
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3075C1?logo=typescript&logoColor=fff)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F0D81D?logo=javascript&logoColor=000)](#)
@@ -27,7 +27,7 @@ I am a full-stack software engineer based in the UK. I love exploring tooling an
 [![Solidity](https://img.shields.io/badge/Solidity-2B257C?logo=solidity&logoColor=fff)](#)
 [![C++](https://img.shields.io/badge/C++-004283?logo=cplusplus&logoColor=fff)](#)
 
-### Technologies
+### 🧑‍💻 Technologies
 
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 [![Angular](https://img.shields.io/badge/Angular-0F0F11?style=flat&logo=angular&logoColor=white)](#)
