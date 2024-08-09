@@ -34,6 +34,7 @@ I am a full-stack software engineer based in the UK. I love exploring tooling an
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)](#)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](#)
+[![Django](https://img.shields.io/badge/Django-0A2D1E?style=flat&logo=django&logoColor=white)](#)
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](#)
 [![LaTeX](https://img.shields.io/badge/LaTeX-007C7C?style=flat&logo=latex&logoColor=white)](#)
