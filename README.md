@@ -6,7 +6,7 @@ I am a full-stack software engineer based in the UK. I love exploring tooling an
 
 ### 🔭 I’m currently working on
 
-- 🐇 [BunnyMQ](https://github.com/yrnehli/bunnymq) - A modern web interface to manage RabbitMQ (AMQP) messaging queues. Built using React + TypeScript, including these fantastic libraries: `@tanstack/query`, `@tanstack/router`, `zod` and `shadcn-ui`, with a focus on type safety
+- 🐇 [BunnyMQ](https://github.com/yrnehli/bunnymq) - A modern web interface to manage RabbitMQ (AMQP) messaging queues. Built using React + TypeScript, including these fantastic libraries: `@tanstack/query`, `@tanstack/router`, `zod` and `shadcn-ui`, with a focus on type safety.
 
 ### 🌱 I’m currently learning
 
