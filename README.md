@@ -29,8 +29,9 @@ I am a full-stack software engineer based in the UK. I love exploring tooling an
 
 ### 🧑‍💻 Technologies
 
-[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
-[![Angular](https://img.shields.io/badge/Angular-0F0F11?style=flat&logo=angular&logoColor=white)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react)](#)
+[![Next.js](https://img.shields.io/badge/Next.js-0F0F11?logo=next.js&logoColor=white)](#)
+[![Angular](https://img.shields.io/badge/Angular-D70030?style=flat&logo=angular&logoColor=white)](#)
 [![LaTeX](https://img.shields.io/badge/Pydantic-E02361?style=flat&logo=pydantic&logoColor=white)](#)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](#)
