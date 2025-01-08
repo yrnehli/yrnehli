@@ -6,12 +6,13 @@ I am a full-stack software engineer based in the UK. I love exploring tooling an
 
 ### 🔭 I’m currently working on
 
+- 💛 [Userled](https://www.userled.io/) - The copilot for enterprise marketing teams. Scale 1:1 experiences for your target accounts across all your channels.
 - 🐇 [BunnyMQ](https://github.com/yrnehli/bunnymq) - A modern web interface to manage RabbitMQ (AMQP) messaging queues. Built using React + TypeScript, including these fantastic libraries: `@tanstack/query`, `@tanstack/router`, `zod` and `shadcn-ui`, with a focus on type safety.
 
 ### 🌱 I’m currently learning
 
+- **Go** - a fast statically typed, compiled high-level general purpose programming language.
 - **tRPC** - Provides end-to-end type safety in APIs. Used with `zod` for schema validation.
-- **Next.js** - A full stack framework for React to build server-side rendered websites.
 - **Prisma** - An ORM that provides a simple, type safe API to query databases.
 
 ### 🌍 Languages
