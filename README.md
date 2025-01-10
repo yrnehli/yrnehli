@@ -6,7 +6,7 @@ I am a full-stack software engineer based in the UK. I love exploring tooling an
 
 ### 🔭 I’m currently working on
 
-- 💛 [Userled](https://www.userled.io/) - The copilot for enterprise marketing teams. Scale 1:1 experiences for your target accounts across all your channels.
+- 🟡 [Userled](https://www.userled.io/) - The copilot for enterprise marketing teams. Scale 1:1 experiences for your target accounts across all your channels.
 - 🐇 [BunnyMQ](https://github.com/yrnehli/bunnymq) - A modern web interface to manage RabbitMQ (AMQP) messaging queues. Built using React + TypeScript, including these fantastic libraries: `@tanstack/query`, `@tanstack/router`, `zod` and `shadcn-ui`, with a focus on type safety.
 
 ### 🌱 I’m currently learning
