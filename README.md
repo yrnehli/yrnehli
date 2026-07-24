@@ -6,19 +6,19 @@ I am a full-stack software engineer based in the UK. I love exploring tooling an
 
 ### 🔭 I’m currently working on
 
-- 🟡 [Userled](https://www.userled.io/) - The copilot for enterprise marketing teams. Scale 1:1 experiences for your target accounts across all your channels.
-- 🐇 [BunnyMQ](https://github.com/yrnehli/bunnymq) - A modern web interface to manage RabbitMQ (AMQP) messaging queues. Built using React + TypeScript, including these fantastic libraries: `@tanstack/query`, `@tanstack/router`, `zod` and `shadcn-ui`, with a focus on type safety.
+- 🟡 [Userled](https://www.userled.io/) - The only AI-native ABM platform that activates and converts key accounts.
+- 🍎 [stem2k](https://www.stem2k.com/) - A sleek, minimal, and lightning-fast Apple Music client. True cross-platform support with enhanced features that just work. Built using React + TypeScript, including these fantastic libraries: `@tanstack/query`, `@tanstack/router`, `trpc`, `zod` and `shadcn-ui`, with a focus on type safety.
 
 ### 🌱 I’m currently learning
 
-- **Go** - a fast statically typed, compiled high-level general purpose programming language.
-- **tRPC** - Provides end-to-end type safety in APIs. Used with `zod` for schema validation.
-- **Prisma** - An ORM that provides a simple, type safe API to query databases.
+- **Mastra** - The leading TypeScript framework to build, observe and improve agents.
+- **RAG (Retrieval-Augmented Generation)** - a technique that enhances LLMs by pulling information from external, proprietary, or authoritative knowledge bases
 
 ### 🌍 Languages
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3075C1?logo=typescript&logoColor=fff)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F0D81D?logo=javascript&logoColor=000)](#)
+[![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff)](#)
 [![Python](https://img.shields.io/badge/Python-3471A0?logo=python&logoColor=fff)](#)
 [![HTML](https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white)](#)
@@ -32,15 +32,15 @@ I am a full-stack software engineer based in the UK. I love exploring tooling an
 
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react)](#)
 [![Next.js](https://img.shields.io/badge/Next.js-0F0F11?logo=next.js&logoColor=white)](#)
-[![Angular](https://img.shields.io/badge/Angular-D70030?style=flat&logo=angular&logoColor=white)](#)
-[![LaTeX](https://img.shields.io/badge/Pydantic-E02361?style=flat&logo=pydantic&logoColor=white)](#)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)](#)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](#)
-[![Django](https://img.shields.io/badge/Django-0A2D1E?style=flat&logo=django&logoColor=white)](#)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)](#)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](#)
+[![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white)](#)
+[![Angular](https://img.shields.io/badge/Angular-D70030?style=flat&logo=angular&logoColor=white)](#)
+[![Pydantic](https://img.shields.io/badge/Pydantic-E02361?style=flat&logo=pydantic&logoColor=white)](#)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)](#)
-[![LaTeX](https://img.shields.io/badge/LaTeX-007C7C?style=flat&logo=latex&logoColor=white)](#)
 
 ### 📫 Contact me
 
