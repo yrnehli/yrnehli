@@ -6,7 +6,7 @@ I am a full-stack software engineer based in the UK. I love exploring tooling an
 
 ### 🔭 I’m currently working on
 
-- 🟡 [Userled](https://www.userled.io/) - The only AI-native ABM platform that activates and converts key accounts.
+- 🧡 [SoundCloud](https://soundcloud.com/) - The world's largest music discovery platform. 
 - 🍎 [stem2k](https://www.stem2k.com/) - A sleek, minimal, and lightning-fast Apple Music client. True cross-platform support with enhanced features that just work. Built using React + TypeScript, including these fantastic libraries: `@tanstack/query`, `@tanstack/router`, `trpc`, `zod` and `shadcn-ui`, with a focus on type safety.
 
 ### 🌱 I’m currently learning
